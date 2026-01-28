@@ -20,3 +20,8 @@ topic : gravitation ,
 solved numericals with my help,
 reflection:  showed better understanding after discussion.
 
+## 28\01\2026
+topic - scalars and vector 
+taught through examples 
+reflections : they could solve tough questions as well 
+
