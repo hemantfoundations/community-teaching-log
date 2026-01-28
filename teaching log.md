@@ -15,7 +15,7 @@ coudnt take class due to repulic day ,
 took an online test of mixed question .
 
 
-##27\01\2026
+## 27\01\2026
 topic : gravitation ,
 solved numericals with my help,
 reflection:  showed better understanding after discussion.
