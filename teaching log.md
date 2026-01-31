@@ -25,3 +25,17 @@ topic - scalars and vector
 taught through examples 
 reflections : they could solve tough questions as well 
 
+## 29\01\2026
+topic - work and energy
+tghey could solve same question with diff aproach
+reflection- understood to aproach question in diff ways 
+
+## 30|01\2026
+topic - numericals on energy 
+learnt a lot from practice 
+refletion - practice makes a man perfect 
+
+## 31/01/2026
+topic - health qand disease 
+became aware about their health 
+reflection  - a healthy body keeps a healthy mind 
