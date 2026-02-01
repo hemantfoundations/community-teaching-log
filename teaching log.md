@@ -39,3 +39,8 @@ refletion - practice makes a man perfect
 topic - health qand disease 
 became aware about their health 
 reflection  - a healthy body keeps a healthy mind 
+
+## 01/02/2026
+topic - principle of archemedes 
+practiced more problem 
+reflection:  could realte diff concepts together
