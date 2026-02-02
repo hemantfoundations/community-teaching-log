@@ -44,3 +44,8 @@ reflection  - a healthy body keeps a healthy mind
 topic - principle of archemedes 
 practiced more problem 
 reflection:  could realte diff concepts together
+
+ ## 02\02\2026
+ topic - natural resources 
+ taught them about diff components of environment
+ reflection : just awareness today
