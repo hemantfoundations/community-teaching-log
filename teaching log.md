@@ -48,4 +48,4 @@ reflection:  could realte diff concepts together
  ## 02\02\2026
  topic - natural resources 
  taught them about diff components of environment
- reflection : just awareness today
+ reflection : just awareness today,
