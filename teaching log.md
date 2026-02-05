@@ -59,4 +59,9 @@ reflection:  could realte diff concepts together
  topic - natural resources 
  componenets of environment
   reflection  - just awareness today 
- 
+
+
+## 05\02\2026
+topic - mole concept 
+basic principal of chmistry 
+reflection - my own revision 
