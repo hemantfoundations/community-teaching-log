@@ -49,3 +49,9 @@ reflection:  could realte diff concepts together
  topic - natural resources 
  taught them about diff components of environment,
  reflection : just awareness today,
+
+ ## 03/02/2026
+ topic - work energy theorem 
+ make thyem understand the relation between work and energy 
+ reflection - helped to unederstand law of consrvation of energy 
+ 
