@@ -54,4 +54,9 @@ reflection:  could realte diff concepts together
  topic - work energy theorem 
  make thyem understand the relation between work and energy 
  reflection - helped to unederstand law of consrvation of energy 
+
+ ## 04\02\206
+ topic - natural resources 
+ componenets of environment
+  reflection  - just awareness today 
  
