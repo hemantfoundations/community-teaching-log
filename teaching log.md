@@ -65,3 +65,7 @@ reflection:  could realte diff concepts together
 topic - mole concept 
 basic principal of chmistry 
 reflection - my own revision 
+## 06\02\206
+topic - practice on mole concept 
+have better understnding of mole concept 
+reflectio - my own revision 
