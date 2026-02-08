@@ -69,3 +69,7 @@ reflection - my own revision
 topic - practice on mole concept 
 have better understnding of mole concept 
 reflectio - my own revision 
+
+## 06\02\2026
+no topic today 
+quiz on general knowldge between students 
